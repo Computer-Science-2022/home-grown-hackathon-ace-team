@@ -1,16 +1,16 @@
-﻿# ALU-Hackathon-API
-PROJECT NAME: Urashoboye
-PROJECT REPORT: https://docs.google.com/document/d/1QqAnwwYwTQV6vuo4mA5S7EIlx58M_AOjBLpRwvcTOz8/edit?usp=sharing
-PROJECT PITCH DECK: https://docs.google.com/presentation/d/1jiA0xa1Jv2c1NJUHg6ur0yUhIR2XNyNANk7oFYeiV0U/edit?usp=sharing
-VIDEO WALKTHROUGH: 
+
+#PROJECT NAME: Urashoboye
+#PROJECT REPORT: https://docs.google.com/document/d/1QqAnwwYwTQV6vuo4mA5S7EIlx58M_AOjBLpRwvcTOz8/edit?usp=sharing
+#PROJECT PITCH DECK: https://docs.google.com/presentation/d/1jiA0xa1Jv2c1NJUHg6ur0yUhIR2XNyNANk7oFYeiV0U/edit?usp=sharing
+#VIDEO WALKTHROUGH: 
 
 This project seeks to bring forward a system, platform, or technique that can help parents with disabled children get help and guidance in raising their children from both professionals and fellow parents.
 
 Using:
-Mongoose for the database
-Express for the backend
-Bootstrap template for the frontend
-Nodejs for the backend
+	Mongoose for the database
+	Express for the backend
+	Bootstrap template for the frontend
+	Nodejs for the backend
 
 
 REQUIREMENTS
@@ -22,7 +22,7 @@ Step 1: Install npm on API directory for the backend
  Change the working directory to api
 	cd api
 Install npm
-npm install
+	npm install
 
 Run the server
-npm run dev
+	npm run dev
